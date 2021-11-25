@@ -1,2 +1,2 @@
-# postgraduate-lectures
-My dydactic materials for students.
+# Didactic
+My didactic materials for students.
